@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
   <ModulePrefs title="hello world example" /> 
-  <Content type="html">
+  <Content type="html" view="canvas">
      <![CDATA[ 
-       Hello, world!
+       <p>Hello, world! Just an added test to show change</p>
+       <p>Just an added test to show change</p>
      ]]>
   </Content> 
 </Module>

@@ -3,7 +3,7 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html" view="canvas">
      <![CDATA[ 
-       <p>Hello, world!</p>
+       <p>Hello, world! Just an added test to show change</p>
        <p>Just an added test to show change</p>
      ]]>
   </Content> 

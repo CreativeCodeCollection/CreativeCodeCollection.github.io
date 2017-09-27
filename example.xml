@@ -4,8 +4,8 @@
   <Content type="html" view="canvas">
     <p>Hello, world!</p>
      <![CDATA[ 
-       <p>Hello, world!</p>
-       <p>Just an added test to show change</p>
+       //<p>Hello, world!</p>
+       //<p>Just an added test to show change</p>
      ]]>
   </Content> 
 </Module>

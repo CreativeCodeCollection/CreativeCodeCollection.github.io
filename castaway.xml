@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="hello world example" /> 
+  <Content type="html" view="canvas">
+     <![CDATA[
 <div id="gamefilearea" class="prestitial-running  " style="height:528px;">
     <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="720" height="528" id="gamefile" align="middle">
         <param name="allowScriptAccess" value="always" />
@@ -19,3 +24,6 @@
               <img src="http://p.webbled.com/index.php?q=http%3A%2F%2Farmorgames.com%2Fimages%2Fimg-loading.gif" alt="loading..." class="afg-html5-loader">
             </div>
   </div>
+       ]]>
+  </Content> 
+</Module>

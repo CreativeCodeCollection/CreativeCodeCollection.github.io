@@ -3,26 +3,11 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html" view="canvas">
      <![CDATA[
-    <div id="gamefilearea" class="prestitial-running  " style="height:528px;">
-    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="720" height="528" id="gamefile" align="middle">
-        <param name="allowScriptAccess" value="always" />
-        <param name="movie" value="//cache.armorgames.com/files/games/castaway-2-11261.swf?v=1379179056" />
-        <param name="quality" value="high" />
-        <param name="wmode" value="window" />
-        <param name="allowfullscreen" value="" />
-        <param name="allowfullscreeninteractive" value="false" />
-        <param name="fullScreenAspectRatio" value="" />
-        <param name="quality" value="" />
-        <param name="play" value="true" />
-        <param name="loop" value="true" />
-        <param name="menu" value="" />
-        <param name="flashvars" value="gameID=11261&auth_token=cc2c76aad1b83f2d7d60bedfe35cda11&user_id=d613d0550bf4e60a9b7f5055dafebf75" />
-        <param name="hasPriority" value="true" />
-        <embed src="http://p.webbled.com/index.php?q=http%3A%2F%2Fcache.armorgames.com%2Ffiles%2Fgames%2Fcastaway-2-11261.swf%3Fv%3D1379179056" width="720" height="528" id="gamefileEmbed" name="gamefile" align="middle" wmode="window" allowfullscreen="" allowfullscreeninteractive="false" fullscreenaspectratio="" quality="high" play="true" loop="true" menu="" allowscriptaccess="always" flashvars="gameID=11261&auth_token=cc2c76aad1b83f2d7d60bedfe35cda11&user_id=d613d0550bf4e60a9b7f5055dafebf75" haspriority="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer"></embed>
-    </object>
-            <div id="afg-html5-container" style="position:absolute; width:854px; height:480px; left:-67px;">
-              <img src="http://p.webbled.com/index.php?q=http%3A%2F%2Farmorgames.com%2Fimages%2Fimg-loading.gif" alt="loading..." class="afg-html5-loader">
-            </div>
+    <div style="text-align:center"><a
+      id="Riggs" title="My Photo Album" target="_blank"
+      href="http://picasaweb.google.com/doc.examples/ShelfBoy">
+      <img border="0" alt="Photo" src="http://doc.examples.googlepages.com/Riggsie-OP.jpg" 
+      title="Click Here."></a>
     </div>
      ]]>
   </Content> 
